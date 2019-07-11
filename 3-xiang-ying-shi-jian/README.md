@@ -11,5 +11,9 @@
 [3.7 如何使用 SecureField 创建安全的 text fields](3.7-ru-he-shi-yong-securefield-chuang-jian-an-quan-di-text-fields.md)  
 [3.8 如何创建 Slider 并从中读取值](3.8-ru-he-chuang-jian-slider-bing-cong-zhong-du-qu-zhi.md)  
 [3.9 如何创建选择器（Picker）并从中读取值](3.9-ru-he-chuang-jian-xuan-ze-qi-picker-bing-cong-zhong-du-qu-zhi.md)  
-[3.10 如何创建日期选择器（DatePicker）并从中读取值](3.10-ru-he-chuang-jian-ri-qi-xuan-ze-qi-datepicker-bing-cong-zhong-du-qu-zhi.md)
+[3.10 如何创建日期选择器（DatePicker）并从中读取值](3.10-ru-he-chuang-jian-ri-qi-xuan-ze-qi-datepicker-bing-cong-zhong-du-qu-zhi.md)  
+[3.11 如何创建 segmented control 并从中读取值](3.11-ru-he-chuang-jian-segmented-control-bing-cong-zhong-du-qu-zhi.md)  
+[3.12 如何阅读轻击和双击手势](3.12-ru-he-yue-du-qing-ji-he-shuang-ji-shou-shi.md)  
+[3.13 如何给视图添加手势识别器](3.13-ru-he-gei-shi-tu-tian-jia-shou-shi-shi-bie-qi.md)  
+[3.14 如何视图生命周期事件：appear 和 disappear](3.14-ru-he-shi-tu-sheng-ming-zhou-qi-shi-jian-appear-he-disappear.md)
 
