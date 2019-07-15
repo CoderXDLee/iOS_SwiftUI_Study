@@ -1,7 +1,7 @@
 # Table of contents
 
 * [SWIFTUI BY EXAMPLE](README.md)
-* [1 - Text and Image](1-text-and-image/README.md)
+* [1 - 文本和图像](1-text-and-image/README.md)
   * [1.1 基本模板介绍](1-text-and-image/1.1-ji-ben-mo-ban.md)
   * [1.2 如何使用 Text view 创建静态标签](1-text-and-image/1.2-ru-he-shi-yong-text-view-chuang-jian-jing-tai-biao-qian.md)
   * [1.3 如何使用字体、颜色、行距等设置文本视图的样式](1-text-and-image/1.3-ru-he-shi-yong-zi-ti-yan-se-hang-ju-deng-she-zhi-wen-ben-shi-tu-de-yang-shi.md)
