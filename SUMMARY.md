@@ -20,7 +20,6 @@
   * [2.6 如何使用 ForEach 在循环中创建视图](2-shi-tu-bu-ju/2.6-ru-he-shi-yong-foreach-zai-xun-huan-zhong-chuang-jian-shi-tu.md)
   * [2.7 如何使用 size classes 创建不同的布局](2-shi-tu-bu-ju/2.7-ru-he-shi-yong-size-classes-chuang-jian-bu-tong-de-bu-ju.md)
   * [2.8 如何将内容放置在安全区域之外](2-shi-tu-bu-ju/2.8-ru-he-jiang-nei-rong-fang-zhi-zai-an-quan-qu-yu-zhi-wai.md)
-  * [2.3 如何使用 padding 来控制单个视图周围的间距](2-shi-tu-bu-ju/2.3-ru-he-shi-yong-padding-lai-kong-zhi-dan-ge-shi-tu-zhou-wei-de-jian-ju-1.md)
 * [3 - 响应事件](3-xiang-ying-shi-jian/README.md)
   * [3.1 工作状态（Working with state）](3-xiang-ying-shi-jian/3.1-gong-zuo-zhuang-tai-working-with-state.md)
   * [3.2 如何创建切换开关（toggle switch）](3-xiang-ying-shi-jian/3.2-ru-he-chuang-jian-qie-huan-kai-guan-toggle-switch.md)
