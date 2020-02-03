@@ -12,5 +12,5 @@
 [1.8 如何显示实体形状](1.8-ru-he-xian-shi-shi-ti-xing-zhuang.md)  
 [1.9 如何使用图像和其它视图作为背景](1.9-ru-he-shi-yong-tu-xiang-he-qi-ta-shi-tu-zuo-wei-bei-jing.md)
 
-
+\[1.1 基本模板介绍\]\(/1-text-and-image/1.1-ji-ben-mo-ban.md\)
 
